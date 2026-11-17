@@ -79,6 +79,32 @@ Tek tıkla K-CAD, KML/KMZ, PDF kroki, Word kroki, TXT, AutoCAD DXF/DWG, Netcad N
 
 ---
 
+## ❓ FAQ / Sık sorulan sorular
+
+**Is there a free online CAD tool that opens DWG files?**
+Yes. K-CAD Pro opens, views and draws DWG and DXF files directly in the browser — free, no installation.
+
+**How can I create cross-sections from a LandXML file online?**
+Open the *Edit Section* window in K-CAD Pro and load your LandXML file. KSE (Netcad section) files are supported too.
+
+**How do I calculate cut and fill areas of a cross-section?**
+Load two surfaces (e.g. existing ground and design). K-CAD Pro calculates cut/fill areas, slope ratios and elevation differences for every section.
+
+**Is there a free NVA / area survey sketch tool?**
+Yes. The NVA tool draws the parcel on a satellite map, adds corner names, edge lengths and area, and exports PDF/Word sketches, DXF, DWG, NCN and KMZ.
+
+**Is it an alternative to AutoCAD, Civil 3D or Netcad?**
+K-CAD Pro covers many everyday tasks of these tools (DWG drawing, maps, sections, area surveys) in a free browser app. It is an independent project and is not affiliated with Autodesk or Netcad.
+
+---
+
+**Ücretsiz, DWG açan online bir CAD programı var mı?** Evet, K-CAD Pro DWG/DXF dosyalarını tarayıcıda açar ve çizer.
+**LandXML veya KSE dosyasından online kesit nasıl çıkarılır?** K-CAD Pro'da *Kesit Düzenle* penceresine dosyayı yükleyin.
+**Dolgu/yarma alanı nasıl hesaplanır?** İki yüzeyi (mevcut zemin ve proje) yükleyin; her kesitte dolgu/yarma, şev eğimi ve kot farkı hesaplanır.
+**Ücretsiz NVA kroki programı var mı?** Evet, NVA aracı parseli uydu haritasında çizer, PDF/Word kroki ve DXF/NCN/KMZ çıktısı verir.
+
+---
+
 ## 💬 Feedback / Görüş ve öneri
 
 Try the [live demo](https://www.kariyerbelge.com/k3-cad/) and share your feedback in [Issues](../../issues).
